@@ -1,2 +1,2 @@
-# gsoc-resume
+# gssoc-resume
 My Resume for GSOC 2025 Application
